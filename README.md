@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+😄 I hope you're well.
+
 <!--
 **LuchiBobra7/LuchiBobra7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
